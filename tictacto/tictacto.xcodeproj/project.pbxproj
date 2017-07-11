@@ -1,0 +1,312 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CADFC6E91E2C531900FD163F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADFC6E81E2C531900FD163F /* AppDelegate.swift */; };
+		CADFC6EB1E2C531A00FD163F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADFC6EA1E2C531A00FD163F /* ViewController.swift */; };
+		CADFC6EE1E2C531A00FD163F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CADFC6EC1E2C531A00FD163F /* Main.storyboard */; };
+		CADFC6F01E2C531A00FD163F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CADFC6EF1E2C531A00FD163F /* Assets.xcassets */; };
+		CADFC6F31E2C531A00FD163F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CADFC6F11E2C531A00FD163F /* LaunchScreen.storyboard */; };
+		CADFC6FB1E2C6F1F00FD163F /* happy-couple-home-over-dollar-money-falling-people-moving-finances-real-estate-concept-men-women-sitting-floor-64655222.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CADFC6FA1E2C6F1F00FD163F /* happy-couple-home-over-dollar-money-falling-people-moving-finances-real-estate-concept-men-women-sitting-floor-64655222.jpg */; };
+		CADFC6FD1E2C70BC00FD163F /* IMG_1956.JPG in Resources */ = {isa = PBXBuildFile; fileRef = CADFC6FC1E2C70BC00FD163F /* IMG_1956.JPG */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CADFC6E51E2C531900FD163F /* tictacto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tictacto.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CADFC6E81E2C531900FD163F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CADFC6EA1E2C531A00FD163F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CADFC6ED1E2C531A00FD163F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CADFC6EF1E2C531A00FD163F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CADFC6F21E2C531A00FD163F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CADFC6F41E2C531A00FD163F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CADFC6FA1E2C6F1F00FD163F /* happy-couple-home-over-dollar-money-falling-people-moving-finances-real-estate-concept-men-women-sitting-floor-64655222.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "happy-couple-home-over-dollar-money-falling-people-moving-finances-real-estate-concept-men-women-sitting-floor-64655222.jpg"; sourceTree = "<group>"; };
+		CADFC6FC1E2C70BC00FD163F /* IMG_1956.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1956.JPG; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CADFC6E21E2C531900FD163F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CADFC6DC1E2C531900FD163F = {
+			isa = PBXGroup;
+			children = (
+				CADFC6E71E2C531900FD163F /* tictacto */,
+				CADFC6E61E2C531900FD163F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CADFC6E61E2C531900FD163F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CADFC6E51E2C531900FD163F /* tictacto.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CADFC6E71E2C531900FD163F /* tictacto */ = {
+			isa = PBXGroup;
+			children = (
+				CADFC6E81E2C531900FD163F /* AppDelegate.swift */,
+				CADFC6EA1E2C531A00FD163F /* ViewController.swift */,
+				CADFC6FA1E2C6F1F00FD163F /* happy-couple-home-over-dollar-money-falling-people-moving-finances-real-estate-concept-men-women-sitting-floor-64655222.jpg */,
+				CADFC6FC1E2C70BC00FD163F /* IMG_1956.JPG */,
+				CADFC6EC1E2C531A00FD163F /* Main.storyboard */,
+				CADFC6EF1E2C531A00FD163F /* Assets.xcassets */,
+				CADFC6F11E2C531A00FD163F /* LaunchScreen.storyboard */,
+				CADFC6F41E2C531A00FD163F /* Info.plist */,
+			);
+			path = tictacto;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CADFC6E41E2C531900FD163F /* tictacto */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CADFC6F71E2C531A00FD163F /* Build configuration list for PBXNativeTarget "tictacto" */;
+			buildPhases = (
+				CADFC6E11E2C531900FD163F /* Sources */,
+				CADFC6E21E2C531900FD163F /* Frameworks */,
+				CADFC6E31E2C531900FD163F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = tictacto;
+			productName = tictacto;
+			productReference = CADFC6E51E2C531900FD163F /* tictacto.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CADFC6DD1E2C531900FD163F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Kevin M Tran";
+				TargetAttributes = {
+					CADFC6E41E2C531900FD163F = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = CADFC6E01E2C531900FD163F /* Build configuration list for PBXProject "tictacto" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CADFC6DC1E2C531900FD163F;
+			productRefGroup = CADFC6E61E2C531900FD163F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CADFC6E41E2C531900FD163F /* tictacto */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CADFC6E31E2C531900FD163F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CADFC6F31E2C531A00FD163F /* LaunchScreen.storyboard in Resources */,
+				CADFC6F01E2C531A00FD163F /* Assets.xcassets in Resources */,
+				CADFC6FB1E2C6F1F00FD163F /* happy-couple-home-over-dollar-money-falling-people-moving-finances-real-estate-concept-men-women-sitting-floor-64655222.jpg in Resources */,
+				CADFC6FD1E2C70BC00FD163F /* IMG_1956.JPG in Resources */,
+				CADFC6EE1E2C531A00FD163F /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CADFC6E11E2C531900FD163F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CADFC6EB1E2C531A00FD163F /* ViewController.swift in Sources */,
+				CADFC6E91E2C531900FD163F /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CADFC6EC1E2C531A00FD163F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CADFC6ED1E2C531A00FD163F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CADFC6F11E2C531A00FD163F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CADFC6F21E2C531A00FD163F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CADFC6F51E2C531A00FD163F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CADFC6F61E2C531A00FD163F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CADFC6F81E2C531A00FD163F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = tictacto/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kevin.tictacto;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		CADFC6F91E2C531A00FD163F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = tictacto/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kevin.tictacto;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CADFC6E01E2C531900FD163F /* Build configuration list for PBXProject "tictacto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CADFC6F51E2C531A00FD163F /* Debug */,
+				CADFC6F61E2C531A00FD163F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CADFC6F71E2C531A00FD163F /* Build configuration list for PBXNativeTarget "tictacto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CADFC6F81E2C531A00FD163F /* Debug */,
+				CADFC6F91E2C531A00FD163F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CADFC6DD1E2C531900FD163F /* Project object */;
+}
